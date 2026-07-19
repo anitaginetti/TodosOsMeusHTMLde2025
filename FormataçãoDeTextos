@@ -1,0 +1,21 @@
+
+<html> 
+    <head>
+        <title>
+            Exercício1
+        </title>
+    </head>
+    <body>
+        <font size="30"> Campus SPO </font> <br>
+        <hr>
+        localizado 
+        na Rua Pedro Vicente,<br>
+         625 No Bairro do Canindé<br>
+        localizado na Rua Pedro Vicente, 625, no bairro Canindé<br 
+        cursos oferecidos pelo Campus São Paulo:<br>
+        curso Técinco Integrado,<br> 
+        <u>Téconolgicos</u> <br>
+        <hr>
+        <font size="15"> Desenvolvimeto De Sistemas </font><br>
+    </body>
+</html>
