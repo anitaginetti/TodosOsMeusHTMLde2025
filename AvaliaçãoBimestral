@@ -1,0 +1,82 @@
+<html>
+    <body bgcolor="#F5DEB3">
+        <center>
+        <head>
+            <b>Receitas de Familia:</b><br>
+            <h1><font color="006400">Seleção de favoritos.</font></h1> <hr>
+        </head>
+        <i>Uma das formas de compartilhar amor enquanto se controem tradições certamente é através da culinária.</i><br>
+        <h2>~MENU DE TRADIÇÕES~</h2>
+        <img src="macarraozinhobranco.webp" lenght="700" width="700"> <br>
+        <h1><a href="https://www.tudogostoso.com.br/receita/8072-molho-branco-para-macarrao.html" target="_blank">Macarrão branco</a></h1>
+        <b>Principais Ingredientes - Molho</b>
+        <ol type="I">
+            <li>Farinha</li>
+            <li>Manteiga</li>
+            <li>Leite</li>
+            <li>Queijos variados</li>
+        </ol> <br>
+
+        <hr>
+
+        <img src="cremeabobora.jpeg" lenght="700" width="700"> <br>
+        <h1><a href="https://www.tudogostoso.com.br/receita/42004-creme-de-abobora.html" target="_blank">Creme de Abóbora</a></h1>
+        <b>Principais Ingredientes:</b>
+        <ol type="I">
+            <li>Abóbora(tipó de sua preferência)</li>
+            <li>Água</li>
+            <li>Especiarias</li><br>
+        </ol>
+            
+            <b>Possíveis Adicionais</b>
+        <ol type="I">
+            <li>Bacon</li>
+            <li>Carne Seca</li>
+            <li>Calabresa</li>
+            <li>Shimeji</li>
+            <li>Cebolinha Fresca</li> 
+        </ol> <br>
+
+        <hr>
+
+        <img src="macarraocomshimeji.jpg" lenght="700" width="700"> <br>
+        <h1><a href="https://www.tudogostoso.com.br/receita/80720-macarrao-com-shimeji.html" target="_blank">Macarrão com Shimeji</a></h1>
+        <b>Principais Ingredientes:</b>
+        <ol type="I">
+             <li>Macarrão(de sua preerência)</li>
+             <li>Shimeji(branco ou preto)</li>
+              <li>Molho Shoyu</li><br>
+              </ol>
+               
+            <b>Possíveis Adicionais</b>
+        <ol type="I">
+            <li>Bacon</li>
+            <li>Salsinha</li>
+            <li>Temperos</li>
+            <li>Camarão</li>
+            <li>Cebolinha Fresca</li>
+            <li>Ovo Cozido</li> <br>
+        </ol> <br>
+
+        <hr>
+
+        <img src="bolinhochoconinho.jpg" lenght="700" width="700"> <br>
+        <h1><a href="https://www.tudogostoso.com.br/receita/31688-recheio-de-leite-ninho.html" target="_blank">Bolo de Chocolate Com Recheio de Ninho</a></h1>
+        <b>Principais Ingredientes:</b>
+        <ol type="I">
+            <li>Bolo com Massa de Chocolate</li>
+            <li>Recheio de Leite Ninho</li>
+            <li>Cobertura de Brigadeiro</li><br>
+        </ol>
+            
+            <b>Possíveis Adicionais</b>
+        <ol type="I">
+            <li>Confeitos de Chocolate Amargo</li>
+            <li>Raspas de Chocolate Branco</li>
+            <li>Raspas de Chocolate Ao Leite</li>
+            <li>Confeitos Perolados</li>
+            <li>Açúcar de Confeiteiro</li>
+        </ol> <br>
+    </center>
+    </body>
+</html>
