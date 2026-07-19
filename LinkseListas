@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title> Links e Listas </title>
+    </head>
+
+    <body bgcolor="gray">
+        <h1><font color="orange">Listas e Links.</font></h1><hr>
+        <p> <s>Hoje</s> vamos trabalhar com <b>listas</b> e <u>links.</u></p>
+        <p> Hoje é quarta-feira, véspera de <i>feriado</i> prolongado (<font color="orange" size="12">Páscoa</font> e 21 de abril).</p>
+        <h3>Listas desordenadas</h3> 
+        <hr>
+
+        <ul type="square">
+            <li><font color="green">Sapo</font></li>
+            <li><i>Cobra</i></li>
+            <li><b>Galinha</b></li>
+        </ul>
+
+        <ul type="circle"> 
+            <li>Macarrão</li>
+            <li>Maionese</li>
+        </ul>
+
+        <h2>Lista Ordenada</h2>
+            <hr>
+
+            <ol start="5">
+                <li>Lençol</li>
+                <li>Toalha</li>
+                <li>Tapete</li>
+            </ol>
+
+            <ol type="A">
+                <li>Orelhas</li>
+                <li>Pompom</li>
+                <li>Cenoura</li>
+            </ol>
+
+            <ol type="I">
+                <li><a href="https://www.significados.com.br/ovo-da-pascoa/" target="_blank">Ovo</a></li>
+                <li>Chocolate</li>
+                <li>Páscoa</li>
+            </ol>
+
+            <h3>Links</h3>
+            <hr>
+                <a href="https://www.ifsp.edu.br/">IFSP</a> - Abrir na mesma página
+                <br>
+                <a href="https://www.uol.com.br/" target="_blank">UOL</a> - Abrir em uma página em branco
+
+                <h2>Imagens</h2>
+                <hr>
+
+                <center> <a href="https://www.pngwing.com/pt/search?q=enderman"> <img src="png-transparent-minecraft-slender-character-minecraft-story-mode-enderman-mob-video-game-minecraft-enderman-angle-online-product-thumbnail.png" height="300" width="300"></a><center>
+
+                <center> <img src="800px-Creeper_Render_MCL.webp"> </center>
+
+
+    </body>
+</html>
